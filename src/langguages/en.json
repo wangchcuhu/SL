@@ -1,0 +1,178 @@
+{
+  "login":{
+    "loginBtn":"login",
+    "userPlaceholder": "Please enter the user name",
+    "pswPlaceholder": "Please enter the user password",
+    "loginBtn": "login",
+    "loginSetUp": "SetUp",
+    "userPlaceholder": "Please enter the user name",
+    "pswPlaceholder": "Please enter the user password"
+  },
+  "public_btn_name": {
+    "query": "query",
+    "export": "export",
+    "showHidden": "show hidden",
+    "filter": "filter"
+  },
+  "public_btn_name": {
+    "search": "search",
+    "showHidden": "show hidden",
+    "export": "export",
+    "audit": "audit",
+    "look": "view",
+    "nullify": "nullify",
+    "delete": "delete",
+    "basic": "basic"
+  },
+  "public_btn_name": {
+    "feature": "feature",
+    "look": "view",
+    "audit": "audit"
+  },
+  "public_dialog_title": {
+    "searchTip":"Please enter your search criteria!"
+  },
+  "public_dialog_title": {
+    "selectReport":"Select report Format"
+  },
+  "public_label": {
+    "allCheck":"all check"
+  },
+  "public_btn_name": {
+    "confirm": "confirm",
+    "submit": "submit",
+    "close": "close",
+    "empty": "empty"
+  },
+  "individualTasks": {
+    "historyRecord": "history record",
+    "currentRecord": "current record"
+  },
+  "productOutbound": {
+    "title": {
+      "assignOutOrder": "assign out order",
+      "outboundPrompt": "outbound prompt",
+      "noRecommendedTip": "not recommended batch tip",
+      "demandProduct": "demand list for Finished products",
+      "infoProduct": "the finished product information",
+      "package": "packaging information of Finished Products"
+    }
+  },
+  "top":{
+    "add1": "old password",
+    "add2": "New Password",
+    "add3": "Second confirmation of new password",
+    "add4": "set password",
+    "add5": "account"
+  },
+  "Public": {
+    "add": "Add",
+    "edit": "Edit",
+    "index": "Index",
+    "operation": "Operation",
+    "search": "Search",
+    "export": "Export",
+    "modify": "Modify",
+    "delete": "Delete",
+    "print": "Print",
+    "cancel": "Cancel",
+    "sure": "Sure",
+    "closure": "Closure",
+    "empty": "Empty",
+    "hint": "hint",
+    "submit": "Submit",
+    "query": "Query",
+    "del": "Delete",
+    "enable": "Enable",
+    "disable": "Disable",
+    "placeholder_prefix": " Please enter",
+    "pattern_msg": "Please check the format",
+    "whether_to_continue_to_close": "Whether to continue to close?"
+  },
+  "routeManagement": {
+    "routeManagement": "RouteManagement",
+    "pathName": "Path name",
+    "pathAddress": "Path address",
+    "operation": "Operation",
+    "namerPlaceholder": "Please select a path",
+    "submitBtn": "preservation",
+    "pathList": {
+      "title": "Database configuration: configure limis database",
+      "Audit": "Audit trail path",
+      "Auto": "Auto export path",
+      "Camera": "Camera report path",
+      "CODESOFT": "Codesoft path",
+      "Journal": "Log export path",
+      "Search": "Query export path",
+      "History": "XML historical path",
+      "File": "XML file path",
+      "SqlIp": "Database IP",
+      "SqlUsername": "Database user name",
+      "SqlPassword": "Database password",
+      "SqlName": "Database name",
+      "SqlPort": "Database port number"
+    }
+  },
+  "TaskManagement": {
+    "TaskManagement": "TaskManagement",
+    "add1": "The verification failed and the task could not be started normally",
+    "task": "Task",
+    "checkFile": "CheckFile",
+    "codiceProdotto": "Codice Prodotto",
+    "numeroLotto": "Numero Lotto",
+    "numeroArticolo": "Ultimo numero seriale usato",
+    "checkPrompt": "The input is valid, press to start the application input parameters",
+    "modeOffline": "Mode: online",
+    "jobCamera": "Job Camera:",
+    "templateEtichetta": "Template Etichetta:",
+    "fileXML": "File XML:",
+    "sql": "Risulato Query SQL:",
+    "PLC0": "Failed to start task",
+    "PLC1": "Communication with PLC is ready, both parties agree to start the task"
+  },
+  "personnelInfo": {
+    "userAccount": "account number",
+    "userName": "user name",
+    "email": "mailbox",
+    "state": "state",
+    "formInfo": {
+      "otherName": " OtherName",
+      "phoneNumber": " Personal telephone",
+      "email": " Mailbox",
+      "remark": " Remarks",
+      "modifyReason": " Reason for modification",
+      "userAccount": " Account number",
+      "operatorUser": " Operator",
+      "operatorUserPwd": " Operator password",
+      "allowLoginTimes": " Number of logins allowed"
+    
+    }
+  },
+  "roleManagement":{
+    "roleId":"roleId",
+    "roleName":"roleName",
+    "roleDescribe":"roleDescribe",
+    "modifyUserId":"modifyUserId",
+    "modifyTime":"modifyTime",
+    "createUserId":"createUserId",
+    "createTime":"createTime",
+    "BasicRoleInformation":"Basic Role Information",
+    "PermissionBinding":"Permission Binding",
+    "formInfo":{
+      "roleName":"Role Name",
+      "roleDescribe":"Role Describe"
+    }},
+     "logManagement": {
+    "operateModule": "Log module",
+    "operateType": "Log type",
+    "modification": "Modify reason",
+    "premodification": "Data before modification",
+    "aftermodification": "Modified data",
+    "operatorUser": "Operator",
+    "operateTime": "Operation time",
+    "to": "to",
+    "startTime": "Start time",
+    "endTime": "End time",
+    "reportFormate": "Choose report format"
+  }
+}

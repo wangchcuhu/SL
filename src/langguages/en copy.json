@@ -1,0 +1,57 @@
+{
+  "login":{
+    "loginBtn":"login",
+    "userPlaceholder": "Please enter the user name",
+    "pswPlaceholder": "Please enter the user password"
+  },
+  "public_btn_name": {
+    "query": "query",
+    "export": "export",
+    "showHidden": "show hidden",
+    "filter": "filter"
+  },
+  "public_btn_name": {
+    "search": "search",
+    "showHidden": "show hidden",
+    "export": "export",
+    "audit": "audit",
+    "look": "view",
+    "nullify": "nullify",
+    "delete": "delete",
+    "basic": "basic"
+  },
+  "public_btn_name": {
+    "feature": "feature",
+    "look": "view",
+    "audit": "audit"
+  },
+  "public_dialog_title": {
+    "searchTip":"Please enter your search criteria!"
+  },
+  "public_dialog_title": {
+    "selectReport":"Select report Format"
+  },
+  "public_label": {
+    "allCheck":"all check"
+  },
+  "public_btn_name": {
+    "confirm": "confirm",
+    "submit": "submit",
+    "close": "close",
+    "empty": "empty"
+  },
+  "individualTasks": {
+    "historyRecord": "history record",
+    "currentRecord": "current record"
+  },
+  "productOutbound": {
+    "title": {
+      "assignOutOrder": "assign out order",
+      "outboundPrompt": "outbound prompt",
+      "noRecommendedTip": "not recommended batch tip",
+      "demandProduct": "demand list for Finished products",
+      "infoProduct": "the finished product information",
+      "package": "packaging information of Finished Products"
+    }
+  }
+}
